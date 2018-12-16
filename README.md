@@ -1,5 +1,9 @@
 # Paper summary 
+Issueに読んだ論文のサマリ&完走書いてます。
+
 [Listed in issue](https://github.com/tkazusa/papers/issues)
+
+まとめ方は下記を意識してますが、必ずしもこれに当てはめられないことも。
 
 ### 0. 論文
 ### 1. どんなもの
@@ -9,4 +13,12 @@
 ### 5. 議論はある？
 ### 6. 次に読むべき論文は？
 
-
+# 読みたいな
+- ACM(Association for Computing Machinery)
+- IEEE(Institute of Electrical and Electronics Engineers)
+- KDD
+- AAAI
+- IJCAI
+- NIP
+- ICML
+- CVPR
