@@ -16,9 +16,8 @@ Issueに読んだ論文のサマリ&完走書いてます。
 # 読みたいな
 - ACM(Association for Computing Machinery)
 - IEEE(Institute of Electrical and Electronics Engineers)
-- KDD
-- AAAI
-- IJCAI
-- NIP
-- ICML
-- CVPR
+- KDD(ACM SIGKDD Conference on Knowledge Discovery and Data Mining)
+- AAAI(Association for the Advancement of Artificial Intelligence)
+- NeurIPS(Neural Information Processing Systems)
+- ICML(International Conference on Machine Learning)
+- CVPR(IEEE/CVF Conference on Computer Vision and Pattern Recognition)
