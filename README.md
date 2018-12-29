@@ -1,5 +1,5 @@
 # Paper summary 
-Issueに読んだ論文のサマリ&完走書いてます。
+Issueに読んだ論文のサマリ&感想書いてます。
 
 [Listed in issue](https://github.com/tkazusa/papers/issues)
 
